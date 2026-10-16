@@ -1,6 +1,6 @@
-# SurgeSenseAI: Hospital Surge Prediction Agent
+# SurgeSense AI: Hospital Surge Prediction Agent
 
-**SurgeSenseAI** is an AI-powered agent designed to predict patient surges and operational strain in hospitals. It utilizes a **ReAct (Reasoning + Acting)** architecture to analyze multi-source data including internal hospital metrics, real-time weather/pollution data, and upcoming holidays to provide actionable risk assessments and resource recommendations.
+**SurgeSense AI** is an AI-powered agent designed to predict patient surges and operational strain in hospitals. It utilizes a **ReAct (Reasoning + Acting)** architecture to analyze multi-source data including internal hospital metrics, real-time weather/pollution data, and upcoming holidays to provide actionable risk assessments and resource recommendations.
 
 ## 📋 Features
 
